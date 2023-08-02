@@ -35,6 +35,6 @@ We are providing real program memory traces as input to your cache simulator. Th
 Pa5:
 This assignment is designed to give you some experience in C programming while also increas- ing your understanding of circuits. You will be writing a C program to simulate the output of combinational circuits.
 
-I hope you learn coding from my past assignment, if you simply copy my work, you are piece of sxxt!
-Copyright by Zhaohan Yan whoelse use this code without notify me will be charged $100000 and I may hold the right to sue you.
+I hope you learn coding from my past assignment, if you simply copy this work for assignment, it will cause academic integrity issues and may lead to serious negative consequences!
+
 Good luck!
